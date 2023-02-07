@@ -1,6 +1,6 @@
 # MERN-workout-application
 
-![MERN-workout](./frontend/src/assets/web-view01.png)
+![MERN-workout](./app/frontend/src/assets/web-view01.png)
 
 
 ## Welcome! 👋
